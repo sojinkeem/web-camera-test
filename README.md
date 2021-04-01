@@ -1,5 +1,5 @@
 # web-camera-test
-This repo copied from https://marcusbelcher.github.io/wasm-asm-camera-webgl-test for a personal testing perpose.
+This repo is a copy from https://marcusbelcher.github.io/wasm-asm-camera-webgl-test for a personal testing perpose.
 
 # README
 This repo is a simple test case for anyone to use - as is - to check similar browser compatibility issues. Primarily tests cases for Webcam/Camera access via getUserMedia, HTTPS (as some browsers block camera access from unsecured sites), WebAssembly, ASM, and WebGL. 
